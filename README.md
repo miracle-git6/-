@@ -1,2 +1,2 @@
-# -
+# SberAutoSubscription
 финальная работа
